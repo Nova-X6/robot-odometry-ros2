@@ -1,5 +1,7 @@
 # Mobile Robot Odometry and Error Analysis
 
+Project completed at Politecnico di Milano in April 2026.
+
 A ROS 2 academic robotics project implementing planar odometry for the AgileX Bunker mobile robot and comparing its estimated trajectory with a GPS reference from recorded data.
 
 ## Features
